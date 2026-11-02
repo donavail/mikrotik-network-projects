@@ -24,4 +24,4 @@ Dokumentasi proyek implementasi Masquerade Port Address Translation (PAT) menggu
 
 Laporan lengkap proyek tersedia dalam berkas berikut:
 
-`Implementasi Masquerade PAT pada Router MikroTik RB941.pdf`
+`masquerade-pat-mikrotik-rb941.pdf`
